@@ -54,3 +54,12 @@ p {
     font-family: Inter400;
 
 }
+
+footer{
+    display: flex;
+    width: 312px;
+    align-items: center;
+    gap: 106px;
+    justify-content: space-between;
+    padding-left: 2rem;
+}
