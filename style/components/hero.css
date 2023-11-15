@@ -1,0 +1,9 @@
+.hero {
+    background-image: url(../../images/hero.jpg);
+    background-size: cover;
+    min-height: 45rem;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

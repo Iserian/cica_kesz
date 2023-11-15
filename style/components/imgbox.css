@@ -1,0 +1,37 @@
+.img-box{
+    height: 25.375rem;
+    background-repeat: no-repeat;
+    background-position: bottom; 
+    background-size: cover;
+    border-radius: 1.5625rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.img-box h2{
+    /* color: var( --button-text); 
+    color: rgb(255, 255, 255);
+    font-family: Inter;*/
+    text-align: center;
+    padding-top: 22rem;
+    color: var(--text-color)
+    
+}
+
+.norveg-erdei{
+    background-image: url(../../images/norveg\ macska.jpg);
+}
+
+.main-coon{
+    background-image: url(../../images/main\ coon.jpg);
+}
+
+.bengali_macska{
+    background-image: url(../../images/bengali.jpg);
+}
+
+.megezamacska{
+    background-image: url(../../images/meg\ ez\ a\ cica.jpg);
+}

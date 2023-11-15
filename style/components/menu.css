@@ -1,0 +1,6 @@
+.menu {
+    display: flex;
+    margin-top: 1rem;
+    justify-content: space-between;
+    padding-top: 1rem;
+}

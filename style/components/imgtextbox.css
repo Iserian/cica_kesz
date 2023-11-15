@@ -1,0 +1,57 @@
+
+.img-text-box{
+    background-color: var(--button-text);
+    width: 325px;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    margin: 1rem;
+}
+
+.img-text-box h1, .img-text-box p{
+    font-family: Inter;
+    color: #000;
+    line-height: 140%;
+    font-style: normal;
+}
+
+.img-text-box h1{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.img-text-box p{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.img-text-box img{
+    /* object-fit: cover;
+    width: 125px; */
+    width: 136px;
+    height: 86.441px;
+    object-fit: contain;
+    
+}
+
+.img-text-box .primary{
+    width:200px;
+}
+
+.img-text-box_szurke {
+    background-color: var(--secondary-bg);
+    width: 325px;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    border: 3px solid var(--secondary-bg);
+    color: white;
+    margin: 1rem;
+}
+
+.img-text-box_szurke p {
+    text-align: left;
+    font-weight: bold;
+}
+.img-text-box h2{
+    color: black;
+}

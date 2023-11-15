@@ -1,0 +1,17 @@
+:root {
+    
+  /* Background */
+  --button-bg: #cb7006;
+  --secondary-bg: rgba(255, 255, 255, 0.2);
+  --background: black;
+
+  /* Text Color */
+  --button-text: #fff;
+  --hover-text: #000;
+  --text-color: white;
+
+  /* Text size */
+  --title-size: 2.5rem;
+  --text-size: 1rem;
+  
+}
